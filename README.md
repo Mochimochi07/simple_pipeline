@@ -22,7 +22,7 @@ just type this in a command line.
 
 > pip install requests pandas mysql-connector-python
 
-##Note: replace the password with your own personal password. its just an example. 
+##Note: replace the password with your own personal password. its just an example.  The transformation of data is in extract.py but if you want to divide it then just make another python file and use pandas with dataframe.
 
 ## extract.py
 This thing extracts some data from the API. i know the response is few but its for example purposes.
