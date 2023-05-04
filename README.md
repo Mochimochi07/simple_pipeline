@@ -8,7 +8,7 @@ if you see things clearly i like to used print and also pandas as a view.
 and i usually dont use workbench because i would kinda prefer the cmd view or cmd version so that i would be comfortable with the queries.
 its for example only. you might need to have tons of memory to handle data lakes.
 making just simple databases are fun to do.
-i put it in py and not in .pynb so theres still a twist
+i put it in py and not in .ipynb so theres still a twist
 
 ## API
 > The Api that i used is Pokeapi. <br>
