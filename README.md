@@ -9,6 +9,8 @@ and i usually dont use workbench because i would kinda prefer the cmd view or cm
 its for example only. you might need to have tons of memory to handle data lakes.
 making just simple databases are fun to do.
 i put it in py and not in .ipynb so theres still a twist
+its a public api btw.
+i prefer not to post the selenium version so no DOS attacks
 
 ## API
 > The Api that i used is Pokeapi. <br>
