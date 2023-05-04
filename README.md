@@ -15,7 +15,7 @@ just type
 
 > pip install requests pandas mysql-connector-python
 
-##Note: replace the password with your own personal password. its just an example. theres no transform here so i might do a complete next time.
+##Note: replace the password with your own personal password. its just an example. theres no transform in ETL process here.
 
 ## extract.py
 - This thing extracts some data from the API. i know the response is few but its for example purposes.
