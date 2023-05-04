@@ -3,7 +3,7 @@
 This is my pokemon pipeline for the ETL process.
 i kinda liked going back to my old days of statistics for gaming.
 yeah. its kinda nice going for DataScience.
-it reminds me of my 
+its a good try for me to do things for a moment.
 
 
 ## Pip Packages.
