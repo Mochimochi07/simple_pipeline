@@ -38,3 +38,6 @@ This thing creates the database from python file to the mysql server.
 
 ## loaddata.py
 This thing kinda load the data gathered from the site to your own personal sql server that you made from creatdb.py
+
+# Update
+I prefer you use Jupyter Notebooks for these type of things
